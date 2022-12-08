@@ -1,3 +1,6 @@
+## :warning: Deprecation notice
+> This repository has been archived and is no longer maintained.
+
 # Kentico Kontent Custom Element: Keyword Extractor
 
 This [custom element](https://docs.kontent.ai/tutorials/develop-apps/integrate/integrating-your-own-content-editing-features) for [Kentico Kontent](https://kontent.ai) gives editors a way to automatically generate keywords for an item based on the content in it. It's based on [VueJS](https://vuejs.org/) to enable more dynamic functionality.
